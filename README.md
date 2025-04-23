@@ -23,10 +23,6 @@ Dashboard que responde preguntas de negocio sobre stock, proveedores y estaciona
 Análisis de ventas por país, producto y categoría con mapas interactivos.  
 🔗 [`Ventas_Regional.pbix`](./PowerBI/Ventas_Regional.pbix)
 
-### 🟢 Automatización de Carga de Datos con SSIS
-Proyecto de flujo ETL para extraer datos desde una API y cargarlos a SQL Server.  
-🔗 [`SSIS_ETL_Demo`](./SSIS_ETL_Demo/)
-
 ### 🧮 Consultas SQL para Reportes de Gestión
 Consultas que identifican KPIs clave como rotación de stock, cumplimiento de proveedores y productos críticos.  
 🔗 [`SQL`](./SQL/)
