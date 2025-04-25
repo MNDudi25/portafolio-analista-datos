@@ -17,7 +17,7 @@
 
 ### 🟡 Análisis de Inventario (Power BI)
 Dashboard que responde preguntas de negocio sobre stock, proveedores y estacionalidad de reabastecimiento.  
-🔗 [`Inventario_Dashboard.pbix`](./PowerBI/Inventario_Dashboard.pbix)
+🔗 [`Transportes BI.pbix`](./PowerBI/PowerBI/Transportes BI.pbix)
 
 ### 🔵 Seguimiento de Ventas con Segmentación Geográfica
 Análisis de ventas por país, producto y categoría con mapas interactivos.  
